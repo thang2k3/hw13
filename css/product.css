@@ -1,0 +1,15 @@
+
+body {
+    font-family: Microsoft JhengHei;
+}
+#banner {
+    background-image: url(https://news.khangz.com/wp-content/uploads/2020/01/uu-dai-Samsung-6.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+}
+.title {
+    color: #FA8072;
+    font-weight: bold;
+}
